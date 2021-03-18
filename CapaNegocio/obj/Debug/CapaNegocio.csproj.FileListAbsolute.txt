@@ -1,0 +1,9 @@
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\marco\Documents\CsharpPractice\CapaNegocio\obj\Debug\CapaNegocio.pdb
